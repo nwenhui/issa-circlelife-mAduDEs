@@ -11,7 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>circleycircle</string>
+=======
+	<string>flutter_app</string>
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

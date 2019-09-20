@@ -75,7 +75,11 @@ class _MyHomePageState extends State<MyHomePage> {
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
         child: Column(
+<<<<<<< HEAD
           // Column is also a layout widget. It takes a list of children and
+=======
+          // Column is also layout widget. It takes a list of children and
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
           // arranges them vertically. By default, it sizes itself to fit its
           // children horizontally, and tries to be as tall as its parent.
           //

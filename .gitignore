@@ -61,7 +61,10 @@
 **/ios/Flutter/app.flx
 **/ios/Flutter/app.zip
 **/ios/Flutter/flutter_assets/
+<<<<<<< HEAD
 **/ios/Flutter/flutter_export_environment.sh
+=======
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 

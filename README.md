@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # circleycircle
 
 A new Flutter application.
+=======
+# flutter_app
+
+A financial management app
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 
 ## Getting Started
 

@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.circleycircle">
+=======
+    package="com.example.flutter_app">
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -8,7 +12,11 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
+<<<<<<< HEAD
         android:label="circleycircle"
+=======
+        android:label="flutter_app"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

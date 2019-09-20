@@ -7,14 +7,22 @@ packages:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.3.0"
+=======
+    version: "2.2.0"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   boolean_selector:
     dependency: transitive
     description:
       name: boolean_selector
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.0.5"
+=======
+    version: "1.0.4"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   charcode:
     dependency: transitive
     description:
@@ -59,28 +67,44 @@ packages:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.1.7"
+=======
+    version: "1.1.6"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   path:
     dependency: transitive
     description:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.6.4"
+=======
+    version: "1.6.2"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   pedantic:
     dependency: transitive
     description:
       name: pedantic
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.8.0+1"
+=======
+    version: "1.7.0"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   quiver:
     dependency: transitive
     description:
       name: quiver
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.0.5"
+=======
+    version: "2.0.3"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   sky_engine:
     dependency: transitive
     description: flutter
@@ -113,7 +137,11 @@ packages:
       name: string_scanner
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "1.0.5"
+=======
+    version: "1.0.4"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
   term_glyph:
     dependency: transitive
     description:

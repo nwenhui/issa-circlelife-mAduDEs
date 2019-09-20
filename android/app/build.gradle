@@ -22,28 +22,42 @@ if (flutterVersionName == null) {
 }
 
 apply plugin: 'com.android.application'
+<<<<<<< HEAD
 apply plugin: 'kotlin-android'
+=======
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
     compileSdkVersion 28
 
+<<<<<<< HEAD
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
 
+=======
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
     lintOptions {
         disable 'InvalidPackage'
     }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId "com.example.circleycircle"
+=======
+        applicationId "com.example.flutter_app"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
         minSdkVersion 16
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+<<<<<<< HEAD
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+=======
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
     }
 
     buildTypes {
@@ -60,8 +74,14 @@ flutter {
 }
 
 dependencies {
+<<<<<<< HEAD
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+=======
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+>>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 }
