@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-name: circleycircle
-description: A new Flutter application.
-=======
 name: flutter_app
 description: A financial management app
->>>>>>> 81ca1f88ebfdeaefdfd79bc1a57e14c382313df2
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
